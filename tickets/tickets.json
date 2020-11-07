@@ -1,0 +1,48 @@
+{
+ "nroDeTicket": 3,
+ "Logs": [
+  {
+   "autor": {
+    "username": "Elgordogirasol#7647",
+    "id": "215291592116928512"
+   },
+   "razon": "OTROS",
+   "canal": "734846470930563183",
+   "estado": {
+    "ticket": "Cerrado",
+    "autor": {
+     "username": "StelyoRaiders#4673",
+     "id": "326017306855473163"
+    },
+    "razon": "Duda solucionada."
+   }
+  },
+  {
+   "autor": {
+    "username": "Elgordogirasol#7647",
+    "id": "215291592116928512"
+   },
+   "razon": "OTROS",
+   "canal": "734860749989740604",
+   "estado": {
+    "ticket": "Cerrado",
+    "autor": {
+     "username": "StelyoRaiders#4673",
+     "id": "326017306855473163"
+    },
+    "razon": "Otros"
+   }
+  },
+  {
+   "autor": {
+    "username": "Derkand#0001",
+    "id": "330238135629905921"
+   },
+   "razon": "APELAR SANCIÓN",
+   "canal": "736198355541033040",
+   "estado": {
+    "ticket": "Abierto"
+   }
+  }
+ ]
+}

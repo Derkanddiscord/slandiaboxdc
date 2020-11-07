@@ -1,0 +1,103 @@
+{
+  "dineros": {
+    "724709388572557484": {
+      "330238135629905921": {
+        "dinero": 7003,
+        "banco": 0,
+        "nombre": "ItzShadom"
+      },
+      "540630252662161429": {
+        "dinero": 23,
+        "banco": 244,
+        "nombre": "GreeenBear"
+      },
+      "690384152738136065": {
+        "dinero": 0,
+        "banco": 599,
+        "nombre": "the man behind the slaughter"
+      },
+      "689139457533804674": {
+        "dinero": 0,
+        "banco": 2638,
+        "nombre": "Ulisesgarcast9"
+      },
+      "424934677477064715": {
+        "dinero": 37,
+        "banco": 243,
+        "nombre": "AssasinWin"
+      },
+      "346795145649192961": {
+        "dinero": 67,
+        "banco": 0,
+        "nombre": "Xerox_PvP"
+      },
+      "378685299661864970": {
+        "dinero": 0,
+        "banco": 26,
+        "nombre": "🔥_-afif0807azzamYT-_🔥"
+      },
+      "659299326207459338": {
+        "dinero": 0,
+        "banco": 565,
+        "nombre": "McStarAV"
+      }
+    },
+    "694944705259241592": {
+      "249500266628513794": {
+        "dinero": 99999999998510,
+        "banco": 0,
+        "nombre": "AgentLew"
+      },
+      "330238135629905921": {
+        "dinero": 99998500,
+        "banco": 0,
+        "nombre": "ItzShadom"
+      }
+    }
+  },
+  "tiendas": {
+    "694944705259241592": [
+      {
+        "nombre": "Rojo",
+        "descripcion": "Comprarlo, para tener el nick rojo",
+        "valor": 900,
+        "emoji": "❤️"
+      },
+      {
+        "nombre": "Ítem",
+        "descripcion": "Descripción",
+        "valor": 100,
+        "emoji": "😭"
+      },
+      {
+        "nombre": "Color",
+        "descripcion": "Otorga permisos para usar el comando -cambiarcolor. Con este comando podrás cambiar tu color de nombre en Discord!",
+        "valor": 1500,
+        "emoji": "🎨"
+      }
+    ],
+    "724709388572557484": [
+      {
+        "nombre": "Color",
+        "descripcion": "Otorga permisos para usar el comando -cambiarcolor. Con este comando podrás cambiar tu color de nombre en Discord!",
+        "valor": 1500,
+        "emoji": "🎨"
+      }
+    ]
+  },
+  "inventarios": {
+    "694944705259241592": {
+      "249500266628513794": [],
+      "330238135629905921": [
+        {
+          "nombre": "Color",
+          "descripcion": "Otorga permisos para usar el comando -cambiarcolor. Con este comando podrás cambiar tu color de nombre en Discord!",
+          "emoji": "🎨"
+        }
+      ]
+    },
+    "724709388572557484": {
+      "330238135629905921": []
+    }
+  }
+}

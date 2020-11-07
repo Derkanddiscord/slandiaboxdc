@@ -1,0 +1,53 @@
+Economia
+----
+- shop  
+  - Muestra la tienda del servidor. 
+  - Puedes agregarle items con -agregarItem 
+  - Puedes comprar un objeto con el dinero con -comprar
+- trabajar
+  - Gana dinero. Cooldown de 300 segundos
+- top
+  - Muestra el top de Dinero.
+  - Si pones -top X saldra un top de X personas
+- addcoins
+  - Agrega dinero a un usuario.
+  - Comando exclusivo (Solo vos podes usarlo)
+- removecoins
+  - remueve dinero del usuario
+  - Comando exclusivo (Solo vos podes usarlo)
+  - Puedes usar -removeCoins Usuario si Para sacar el dinero del banco del usuario
+- retirar
+  - Retira dinero de tu banco a tu efectivo.
+  - Puedes usar Retirar todo para retirar todo tu dinero que tengas en el banco
+- depositar
+  - Deposita tu dinero efectivo al banco
+  - Puedes usar -depositar todo para depositar todo tu dinero efectivo al banco.
+- robar
+  - Robar dinero a otro usuario
+  - 300 segundos de cooldown
+- robarbanco
+  - Robar dinero del banco de otro usuario.
+  - Tiene mas posibilidades de fallar.
+  - Necesitas minimo 1/4 del dinero del otro usuario para poder robarle
+- donar
+  - Dona dinero a otro usuario
+  - Para usarlo: -donar Usuario Dinero
+- perfil
+  - Muestra tu perfil.
+  - El perfi tiene el dinero efectivo/banco y tus items comprados
+- agregaritem
+  - Agrega un item a la tienda
+  - Uso exclusivo (Solo vos podes usarlo)
+  - Para usarlo usa -AgregarItem Nombre / Descripcion / Valor / Emoji
+  - Separa cada parametro con un **-**
+- agregariteminv
+  - Agregar Un item al inventario de otro usuario.
+  - Uso exclusivo (Solo vos podes usarlo)
+- comprar
+  - Compra un item de la tienda.
+- removeItem
+  - Remueve un item de la tienda.
+  - Uso exclusivo (Solo vos podes usarlo)
+- removeItemInv
+  - Remueve un item del inventario de una persona
+  - Uso exclusivo (Solo vos podes usarlo)
